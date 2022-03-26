@@ -2,7 +2,8 @@
 
 
 <div align="center"> 
-  
+
+<img src="https://user-images.githubusercontent.com/86520827/160240326-10214df3-cae7-4e3f-b074-7e0cc2600de0.png"/>  
  
 # Hello, I'm Hyeryeon Song 👩🏻‍🎨💻 
 
