@@ -34,8 +34,6 @@ This is Hyeryeon's World ✨
   
  
 ## 🌟 Skills 🌟
-  <!-- styled-component -->
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
   <!-- Figma -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <!-- Notion -->
